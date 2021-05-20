@@ -1,12 +1,9 @@
-обычно я разрабатываю бизнесс приложение. usially i develop business application.
-я делаю дизайн бизнес проекта. i do design project
-заказчик дает исходные данные. customer gives source data
-я рисую схему данных проекта. i draw project schem.
-проект делим на несколько задач. we divide the project into several tasks
-я разрабатываю модель данных. i develop data model.
-затем разрабатываю модель бизнесс логики. then i develop business model.
-я использую различные инструменты разработки. i use different toolkits for develop.
-я использую nuget packages. i use nuget packages.
-я разрабатываю проект за 90 дней. i develop project at 90 days.
-зате м
+1. я обычно разрабатываю бизнесс приложение. i normally develop business application.
+2. в проекте есть различные nuget packeges. There are different nuget packeges in project.
+3. я использую Visual Studio. I use visual Studio.
+4. я разделяю проект на две части. I split the project into two parts.
+5. первая front-end, вторая back end. First front-end, second back-end.
+6. я разрабатываю прототип проекта и показываю его заказчику.  I develop the project prototype and show it to the customer.
+
+
 
