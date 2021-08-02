@@ -1,0 +1,27 @@
+public int Valid(string collections)
+{
+	var stack = new Stack<char>();
+	forech(var item in collections)
+	{
+		switch(item)
+		{
+			case '{':
+			case '(':
+			case '[':
+			stack.push(item);
+			continue;
+			case '}':
+			if (stack.count==0 || stack.pop() !='{') return -1;
+			continue;
+			case ')':
+			if (stack.count==0 || stack.pop() !='(') return -1;
+			continue;
+			case ']':
+			if (stack.count==0 || stack.pop() !='[') return -1;
+			continue;
+
+		}
+	}
+	var result = st.count==0?1:-1;
+	return result;
+}
